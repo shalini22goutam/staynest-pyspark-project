@@ -2,6 +2,8 @@
 
 A hands-on PySpark assignment covering the core DataFrame APIs, Spark SQL, window functions, joins, and writing data in Parquet and Delta formats.
 
+Assignment walkthrough link : https://drive.google.com/drive/folders/18Y1uYlN1mrlzrxd6-vVsJuqG1Yl2RrTb?usp=sharing
+
 ## Overview
 
 This notebook demonstrates fundamental PySpark transformations and actions using a hotel booking dataset. The exercises are designed to build practical experience with distributed data processing in Apache Spark.
