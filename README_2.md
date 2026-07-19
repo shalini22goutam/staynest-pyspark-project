@@ -1,7 +1,9 @@
 # StayNest Assignments – PySpark & Delta Lake
 
 ## Overview
-This repository contains **Session 6** and **Session 7** assignments completed using **PySpark** on **Databricks**. The notebooks cover Spark DataFrame operations, Spark SQL, Delta Lake features, and the Medallion Architecture.
+This repository contains assignments completed using **PySpark** on **Databricks**. The notebooks cover Spark DataFrame operations, Spark SQL, Delta Lake features, and the Medallion Architecture.
+
+Assignment walkthrough link : https://drive.google.com/drive/folders/18Y1uYlN1mrlzrxd6-vVsJuqG1Yl2RrTb?usp=sharing
 
 ## Technologies
 - PySpark
